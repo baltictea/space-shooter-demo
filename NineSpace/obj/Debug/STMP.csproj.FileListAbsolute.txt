@@ -1,0 +1,15 @@
+C:\repos\URFU_Game-master\STMP\obj\Debug\STMP.csproj.AssemblyReference.cache
+C:\repos\URFU_Game-master\STMP\obj\Debug\STMP.csproj.SuggestedBindingRedirects.cache
+C:\repos\URFU_Game-master\STMP\obj\Debug\NineSpace.VIEW.MainForm.resources
+C:\repos\URFU_Game-master\STMP\obj\Debug\9Space.Properties.Resources.resources
+C:\repos\URFU_Game-master\STMP\obj\Debug\NineSpace.VIEW.StartForm.resources
+C:\repos\URFU_Game-master\STMP\obj\Debug\STMP.csproj.GenerateResource.cache
+C:\repos\URFU_Game-master\STMP\obj\Debug\STMP.csproj.CoreCompileInputs.cache
+C:\repos\URFU_Game-master\STMP\bin\Debug\9Space.exe.config
+C:\repos\URFU_Game-master\STMP\bin\Debug\9Space.exe
+C:\repos\URFU_Game-master\STMP\bin\Debug\9Space.pdb
+C:\repos\URFU_Game-master\STMP\bin\Debug\nunit.framework.dll
+C:\repos\URFU_Game-master\STMP\bin\Debug\nunit.framework.xml
+C:\repos\URFU_Game-master\STMP\obj\Debug\STMP.csproj.CopyComplete
+C:\repos\URFU_Game-master\STMP\obj\Debug\9Space.exe
+C:\repos\URFU_Game-master\STMP\obj\Debug\9Space.pdb

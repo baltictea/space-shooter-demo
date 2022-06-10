@@ -1,0 +1,15 @@
+C:\repos\URFU_Game-master\NineSpace\bin\Debug\9Space.exe.config
+C:\repos\URFU_Game-master\NineSpace\bin\Debug\9Space.exe
+C:\repos\URFU_Game-master\NineSpace\bin\Debug\9Space.pdb
+C:\repos\URFU_Game-master\NineSpace\bin\Debug\nunit.framework.dll
+C:\repos\URFU_Game-master\NineSpace\bin\Debug\nunit.framework.xml
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.csproj.AssemblyReference.cache
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.csproj.SuggestedBindingRedirects.cache
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.VIEW.MainForm.resources
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\9Space.Properties.Resources.resources
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.VIEW.StartForm.resources
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.csproj.GenerateResource.cache
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.csproj.CoreCompileInputs.cache
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\NineSpace.csproj.CopyComplete
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\9Space.exe
+C:\repos\URFU_Game-master\NineSpace\obj\Debug\9Space.pdb
